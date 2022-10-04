@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Mary</h1>
-<h3 align="center">Sr Full-Stack Engineer. Always curious. Always learning.</h3>
+<h3 align="center">Full-Stack Engineer. Always curious. Always learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marysonthego&label=Profile%20views&color=0e75b6&style=flat" alt="marysonthego" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/marysonthego" target="blank"><img src="https://img.shields.io/twitter/follow/marysonthego?logo=twitter&style=for-the-badge" alt="marysonthego" /></a> </p>
 
-- 🌱 I’m currently learning **Vue3 & React**
+- 🌱 I’m currently working in **React and NodeJS**
 
 - 📝 I regularly write articles on [marysonthego.tech](marysonthego.tech)
 
-- 💬 Ask me about **React, Vue, and databases**
+- 💬 Ask me about **React and databases**
 
 - 📫 How to reach me **marysonthego@gmail.com**
 
-- ⚡ Fun fact **I love to read**
+- ⚡ Fun fact **I write code for FUN!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
